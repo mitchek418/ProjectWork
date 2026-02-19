@@ -1,0 +1,21 @@
+# Large data files (download separately - see project READMEs for instructions)
+
+# Iowa Liquor Sales - large CSV file
+Iowa_Liquor_Sales_Analysis/Iowa_Liquor_Sales-26M.csv.gz
+
+# Instacart Database - large CSV files
+Instacart_Database_Analysis/order_products_prior.csv
+Instacart_Database_Analysis/orders.csv
+Instacart_Database_Analysis/order_products.csv
+
+# Chicago Crime - large parquet file
+Chicago_Crime_Seasonality/chicago_crime_seasonality_2015_2024.parquet
+
+# General patterns
+*.DS_Store
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.swp
+*.swo
+*~
